@@ -1,0 +1,12 @@
+﻿  BallEntity.cpp
+D:\Cprojects\GamesProjects\DragonsLakeArkanoid\Maslianka_Zakhar_Arkanoid_DGTc\Types.h(12,1): warning C4005: 'CreateScope': macro redefinition
+D:\Cprojects\GamesProjects\DragonsLakeArkanoid\Maslianka_Zakhar_Arkanoid_DGTc\Types.h(11): message : see previous definition of 'CreateScope'
+D:\Cprojects\GamesProjects\DragonsLakeArkanoid\Maslianka_Zakhar_Arkanoid_DGTc\PlayerEntity.h(31,140): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Cprojects\GamesProjects\DragonsLakeArkanoid\Maslianka_Zakhar_Arkanoid_DGTc\PlayerEntity.h(31,102): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Cprojects\GamesProjects\DragonsLakeArkanoid\Maslianka_Zakhar_Arkanoid_DGTc\BallEntity.cpp(27,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Cprojects\GamesProjects\DragonsLakeArkanoid\Maslianka_Zakhar_Arkanoid_DGTc\BallEntity.cpp(28,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Cprojects\GamesProjects\DragonsLakeArkanoid\Maslianka_Zakhar_Arkanoid_DGTc\BallEntity.cpp(49,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Cprojects\GamesProjects\DragonsLakeArkanoid\Maslianka_Zakhar_Arkanoid_DGTc\BallEntity.cpp(50,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Cprojects\GamesProjects\DragonsLakeArkanoid\Maslianka_Zakhar_Arkanoid_DGTc\Window.h(25): warning C4172: returning address of local variable or temporary
+D:\Cprojects\GamesProjects\DragonsLakeArkanoid\Maslianka_Zakhar_Arkanoid_DGTc\GameWorld.h(38): warning C4172: returning address of local variable or temporary
+  GameGDLTcs.vcxproj -> D:\Cprojects\GamesProjects\DragonsLakeArkanoid\Maslianka_Zakhar_Arkanoid_DGTc\x64\Debug\Arkanoid.exe
